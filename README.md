@@ -16,7 +16,7 @@ In alphabetical order:
 | Mina Ossama      | -                                                            |
 | Monica Adel      | -                                                            |
 | Monica Atef      | -                                                            |
-| Youssef Raafat   | -                                                            |
+| Youssef Raafat   | [@YoussefRaafatNasry](https://github.com/YoussefRaafatNasry) |
 
 ---
 
